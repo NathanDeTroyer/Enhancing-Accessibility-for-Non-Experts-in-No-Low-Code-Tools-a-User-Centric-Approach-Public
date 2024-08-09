@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Master Thesis
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Nathan
+    family-names: De Troyer
+    email: nathandetroyer@hotmail.com
+repository-code: >-
+  https://github.com/NathanDeTroyer/Enhancing-Accessibility-for-Non-Experts-in-No-Low-Code-Tools-a-User-Centric-Approach-Public
+abstract: Code repo to support master thesis
+license: MIT
+date-released: '2024-08-09'
